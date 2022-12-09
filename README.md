@@ -2,6 +2,7 @@
 
 ![C](https://img.shields.io/badge/C-FFD43B?style=flat-square&logo=c&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=black)
+![Bash](https://img.shields.io/badge/shell_script-%23121011.svg?style=flat-square&logo=java&logoColor=black)
 
 ### Web Design
 
@@ -29,3 +30,6 @@
 ![WINDOWS](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=black)
 ![UBUNTU](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=black)
 
+### Other
+![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=flat-square&logo=windows&logoColor=black)
+![Pi-Hole](https://img.shields.io/badge/pihole-%2396060C.svg?style=flat-square&logo=windows&logoColor=black)

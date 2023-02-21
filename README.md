@@ -29,6 +29,4 @@
 
 ![WINDOWS](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=black)
 ![UBUNTU](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=black)
-
-### Other
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=flat-square&logo=raspberrypi&logoColor=black)

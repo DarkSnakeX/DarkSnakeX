@@ -1,8 +1,8 @@
 ### Programming languages
 
-![C](https://img.shields.io/badge/C-FFD43B?style=flat-square&logo=c&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=black)
 ![Bash](https://img.shields.io/badge/shell_script-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white)
+![C](https://img.shields.io/badge/C-FFD43B?style=flat-square&logo=c&logoColor=black)
 
 ### Web Design
 
